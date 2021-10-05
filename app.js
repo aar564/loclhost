@@ -21,6 +21,6 @@ sever.listen(port, function(error){
         console.log('Something went wrong', error)
     }
     else{
-        console.log('sever is listening on port' + port)
+        console.log('sever is listening on port ' + port)
     }
 })
